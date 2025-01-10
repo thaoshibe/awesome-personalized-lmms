@@ -1,6 +1,6 @@
 # Awesome Personalized Large Multimodal Models [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-📝 A curated list about Personalized Multimodal Models and related resources~ 📚
+📝 A curated list about Personalized Multimodal Models, Personalized Representation Learning~ 📚
 
 |<img src="./imgs/yochameleon.png">|
 |:-------- |
@@ -10,6 +10,8 @@
 ### Table of Contents
 
 - [Papers](#papers)
+	- [Personalized Large Multimodal Models](#Personalized-Large-Multimodal-Models)
+	- [Personalized Representation Learning](#Personalized-Representation-Learning)
 - [Datasets](#datasets)
 - [Applications](#applications)
 
@@ -32,10 +34,13 @@ Please feel free to create [pull requests](https://github.com/thaoshibe/awesome-
 
 > *⚠️ Minor Note: The listed works below are specified for settings where users provide 3-5 images, and the system needs to learn about those concepts. There is research on other subtopics (e.g., role-playing, persona, etc.). For these topics, [this repo](https://github.com/HqWu-HITCS/Awesome-Personalized-LLM) might provide better coverage.*
 
+##### Personalized Large Multimodal Models
+
 | Title    | Venue    | Year | Input | Output | Link/ Code     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|:--------:|
 | [paper title] | xx | 2024 | image, text | image, text |  |
 |─── Vision Language Model ───  |
+| [Personalized Visual Instruction Tuning](https://arxiv.org/abs/2410.07113) | arXiv | 2024 | image, text | text | |
 | [Personalized Large Vision-Language Models](https://arxiv.org/abs/2412.17610) | arXiv | 2024 | image, text | text | |
 | [MC-LLaVA: Multi-Concept Personalized Vision-Language Model](https://arxiv.org/abs/2411.11706) | arXiv | 2024 | image, text | text | [Code](https://github.com/arctanxarc/MC-LLaVA) |
 | [Retrieval-Augmented Personalization for Multimodal Large Language Models](https://arxiv.org/html/2410.13360v1) | arXiv | 2024 | image, text | text | [Page](https://hoar012.github.io/RAP-Project/), [Code](https://github.com/Hoar012/RAP-MLLM)|
@@ -49,12 +54,21 @@ Please feel free to create [pull requests](https://github.com/thaoshibe/awesome-
 | [A Personalized Dialogue Generator with Implicit User Persona Detection](https://arxiv.org/abs/2204.07372) | COLING | 2022 | text | text | |
 | [Personalizing Dialogue Agents: I have a dog, do you have pets too?](https://arxiv.org/abs/1801.07243) | ACL | 2018 | text | text | |
 
-<!-- | [paper title](arxiv link) | venues | year | input type | output type | [Page](project page link), [Code](github link)| -->
+##### Personalized Representation Learning
+
+| Title    | Venue    | Year | Link/ Code     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|:--------:|
+| [Personalized Representation from Personalized Generation](https://personalized-rep.github.io/) | arXiv | 2024 | [Code](https://github.com/ssundaram21/personalized-rep)|
+| [“This is my unicorn, Fluffy”: Personalizing frozen vision-language representations](https://github.com/NVlabs/PALAVRA) | ECCV | 2024 | [Code](https://github.com/NVlabs/PALAVRA) |
+
+
 
 ### Datasets
 
 | Name    | Year | # Concepts | Link | Notes |
 |---------|------|------------|------|-------|
+| ConCon-Chi | 2024 | 20 | [GitHub](https://github.com/hsp-iit/concon-chi_benchmark?tab=readme-ov-file) | with [ConCon-Chi](https://github.com/hsp-iit/concon-chi_benchmark?tab=readme-ov-file) |
+| PODS | 2024 | 100 | [GitHub](https://github.com/ssundaram21/personalized-rep/tree/main/dataset) | with [personalized-rep](https://personalized-rep.github.io/) |
 | MC-LLaVA | 2024 | -- | [GitHub](https://github.com/arctanxarc/MC-LLaVA) | with [MC-LLaVA](https://arxiv.org/abs/2411.11706), multiple concepts |
 | Yo'LLaVA | 2024 | 40 | [GitHub](https://github.com/WisconsinAIVision/YoLLaVA?tab=readme-ov-file#yollava-dataset) | with [Yo'LLaVA](https://thaoshibe.github.io/YoLLaVA/), single concept |
 | MyVLM   | 2024 | 29 | [GitHub](https://github.com/snap-research/MyVLM?tab=readme-ov-file#dataset--pretrained-concept-heads) | with [MyVLM](https://snap-research.github.io/MyVLM/), single concept |
