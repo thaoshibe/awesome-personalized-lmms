@@ -40,6 +40,7 @@ Please feel free to create [pull requests](https://github.com/thaoshibe/awesome-
 |:-------- |:--------:|:--------:|:--------:|:--------:|:--------:|
 | [paper title] | xx | 2024 | image, text | image, text |  |
 |─── Vision Language Model ───  |
+| [Personalization Toolkit: Training Free Personalization of Large Vision Language Models](https://arxiv.org/abs/2502.02452) | arXiv | 2025 | image, text | text ||
 | [Personalized Visual Instruction Tuning](https://arxiv.org/abs/2410.07113) | arXiv | 2024 | image, text | text | |
 | [Personalized Large Vision-Language Models](https://arxiv.org/abs/2412.17610) | arXiv | 2024 | image, text | text | |
 | [MC-LLaVA: Multi-Concept Personalized Vision-Language Model](https://arxiv.org/abs/2411.11706) | arXiv | 2024 | image, text | text | [Code](https://github.com/arctanxarc/MC-LLaVA) |
