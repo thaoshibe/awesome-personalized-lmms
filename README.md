@@ -41,10 +41,10 @@ Please feel free to create [pull requests](https://github.com/thaoshibe/awesome-
 | [paper title] | xx | 2024 | image, text | image, text |  |
 |─── Vision Language Model ───  |
 | [Personalization Toolkit: Training Free Personalization of Large Vision Language Models](https://arxiv.org/abs/2502.02452) | arXiv | 2025 | image, text | text ||
-| [Personalized Visual Instruction Tuning](https://arxiv.org/abs/2410.07113) | arXiv | 2024 | image, text | text | |
+| [Personalized Visual Instruction Tuning](https://arxiv.org/abs/2410.07113) | ICLR | 2025 | image, text | text | |
 | [Personalized Large Vision-Language Models](https://arxiv.org/abs/2412.17610) | arXiv | 2024 | image, text | text | |
 | [MC-LLaVA: Multi-Concept Personalized Vision-Language Model](https://arxiv.org/abs/2411.11706) | arXiv | 2024 | image, text | text | [Code](https://github.com/arctanxarc/MC-LLaVA) |
-| [Retrieval-Augmented Personalization for Multimodal Large Language Models](https://arxiv.org/html/2410.13360v1) | arXiv | 2024 | image, text | text | [Page](https://hoar012.github.io/RAP-Project/), [Code](https://github.com/Hoar012/RAP-MLLM)|
+| [Retrieval-Augmented Personalization for Multimodal Large Language Models](https://arxiv.org/html/2410.13360v1) | CVPR | 2025 | image, text | text | [Page](https://hoar012.github.io/RAP-Project/), [Code](https://github.com/Hoar012/RAP-MLLM)|
 | [Yo'LLaVA: Your Personalized Language and Vision Assistant](https://arxiv.org/abs/2406.09400) | NeurIPS | 2024 | image, text | text | [Page](https://thaoshibe.github.io/YoLLaVA), [Code](https://github.com/WisconsinAIVision/YoLLaVA)|
 | [MyVLM: Personalizing VLMs for user-specific queries](https://arxiv.org/abs/2403.14599) | ECCV | 2024 | image, text | text | [Page](https://snap-research.github.io/MyVLM/), [Code](https://github.com/snap-research/MyVLM)|
 |─── Large Language Models ───  |
