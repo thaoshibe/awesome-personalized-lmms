@@ -38,6 +38,8 @@ Please feel free to create [pull requests](https://github.com/thaoshibe/awesome-
 
 | Title    | Venue    | Year | Input | Output | Link/ Code     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|:--------:|
+|─── Unified Models ───  |
+| [YoChameleon: Personalized Vision and Language Generation](https://arxiv.org/abs/2504.20998) | CVPR | 2025 | image, text | image, text | [Page](https://thaoshibe.github.io/YoChameleon/)|
 |─── Vision Language Model ───  |
 | [Training-Free Personalization via Retrieval and Reasoning on Fingerprints](https://arxiv.org/abs/2503.18623) | arXiv | 2025 | image, text | text | |
 | [PVChat: Personalized Video Chat with One-Shot Learning](https://arxiv.org/abs/2503.17069) | arXiv | 2025 | video, text | text ||
