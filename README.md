@@ -39,6 +39,7 @@ Please feel free to create [pull requests](https://github.com/thaoshibe/awesome-
 | Title    | Venue    | Year | Input | Output | Link/ Code     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|:--------:|
 |─── Unified Models ───  |
+| [UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens](https://arxiv.org/abs/2505.14671) | arXiv | 2025 | image, text | image, text | |
 | [YoChameleon: Personalized Vision and Language Generation](https://arxiv.org/abs/2504.20998) | CVPR | 2025 | image, text | image, text | [Page](https://thaoshibe.github.io/YoChameleon/)|
 |─── Vision Language Model ───  |
 | [Training-Free Personalization via Retrieval and Reasoning on Fingerprints](https://arxiv.org/abs/2503.18623) | arXiv | 2025 | image, text | text | |
