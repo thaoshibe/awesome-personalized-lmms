@@ -2,9 +2,19 @@
 
 📝 A curated list about Personalized Multimodal Models, Personalized Representation Learning~ 📚
 
+---
+## 🌱 Contributing
+
+Please feel free to create a pull request to add papers or edit any informations: 
+<a href="https://github.com/thaoshibe/awesome-personalized-lmms/pulls">
+  <img src="https://img.shields.io/badge/Submit%20a%20Pull%20Request-blue?style=for-the-badge" />
+</a> 
+
+
+
 |<img src="./imgs/yochameleon.png">|
 |:-------- |
-|**Problem Settings:** Using 3-5 images of a novel concept/subject (e.g., a pet named `<bo>`), can we personalize Large Multimodal Models so that:<br/>(1) They retain their original capabilities (e.g.,  Describe a dog) <br/>while (2) Enabling tailored their capabilities for the novel concept? (e.g., Describe `<bo>`)|
+#|**Problem Settings:** Using 3-5 images of a novel concept/subject (e.g., a pet named `<bo>`), can we personalize Large Multimodal Models so that:<br/>(1) They retain their original capabilities (e.g.,  Describe a dog) <br/>while (2) Enabling #tailored their capabilities for the novel concept? (e.g., Describe `<bo>`)|
 
 
 ### Table of Contents
@@ -14,10 +24,6 @@
 	- [Personalized Representation Learning](#Personalized-Representation-Learning)
 - [Datasets](#datasets)
 - [Applications](#applications)
-
-#### 🌱 Contributing
-
-Please feel free to create [pull requests](https://github.com/thaoshibe/awesome-personalized-lmms/pulls) or [an issue](https://github.com/thaoshibe/awesome-personalized-lmms/issues) to add/ correct anything. I really appreciate any help or clarification!
 
 ------
 
