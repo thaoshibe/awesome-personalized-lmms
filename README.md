@@ -42,6 +42,7 @@ Please feel free to create [pull requests](https://github.com/thaoshibe/awesome-
 | [UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens](https://arxiv.org/abs/2505.14671) | arXiv | 2025 | image, text | image, text | |
 | [YoChameleon: Personalized Vision and Language Generation](https://arxiv.org/abs/2504.20998) | CVPR | 2025 | image, text | image, text | [Page](https://thaoshibe.github.io/YoChameleon/)|
 |─── Vision Language Model ───  |
+| [MMPB: It's Time for Multi-Modal Personalization](https://aidaslab.github.io/MMPB/) | NeurIPS | 2025 | image, text | text | [Page](https://aidaslab.github.io/MMPB/) |
 | [RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models](https://arxiv.org/abs/2506.18369) | NeurIPS | 2025 | image, text | text | [Code](https://github.com/oyt9306/RePIC) |
 | [Training-Free Personalization via Retrieval and Reasoning on Fingerprints](https://arxiv.org/abs/2503.18623) | arXiv | 2025 | image, text | text | |
 | [PVChat: Personalized Video Chat with One-Shot Learning](https://arxiv.org/abs/2503.17069) | arXiv | 2025 | video, text | text ||
