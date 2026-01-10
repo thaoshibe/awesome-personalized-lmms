@@ -45,6 +45,7 @@ Please feel free to create a pull request to add papers or edit any informations
 | Title    | Venue    | Year | Input | Output | Link/ Code     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|:--------:|
 |─── Unified Models ───  |
+| [TAMEing Long Contexts in Personalization: Towards Training-Free and State-Aware MLLM Personalized Assistant](https://www.arxiv.org/abs/2512.21616) | KDD | 2025 | image, text | image, text | [Code](https://github.com/ronpay/TAME) |
 | [UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens](https://arxiv.org/abs/2505.14671) | NeurIPS | 2025 | image, text | image, text | [Page](https://chawuciren11.github.io/UniCTokens.github.io/) |
 | [YoChameleon: Personalized Vision and Language Generation](https://arxiv.org/abs/2504.20998) | CVPR | 2025 | image, text | image, text | [Page](https://thaoshibe.github.io/YoChameleon/)|
 |─── Vision Language Model ───  |
