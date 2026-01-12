@@ -49,6 +49,7 @@ Please feel free to create a pull request to add papers or edit any informations
 | [UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens](https://arxiv.org/abs/2505.14671) | NeurIPS | 2025 | image, text | image, text | [Page](https://chawuciren11.github.io/UniCTokens.github.io/) |
 | [YoChameleon: Personalized Vision and Language Generation](https://arxiv.org/abs/2504.20998) | CVPR | 2025 | image, text | image, text | [Page](https://thaoshibe.github.io/YoChameleon/)|
 |─── Vision Language Model ───  |
+| [Online-PVLM: Advancing Personalized VLMs with Online Concept Learning](https://arxiv.org/abs/2511.20056) | arXiv | 2025 | image, text | text |  |
 | [MMPB: It's Time for Multi-Modal Personalization](https://aidaslab.github.io/MMPB/) | NeurIPS | 2025 | image, text | text | [Page](https://aidaslab.github.io/MMPB/) |
 | [RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models](https://arxiv.org/abs/2506.18369) | NeurIPS | 2025 | image, text | text | [Code](https://github.com/oyt9306/RePIC) |
 | [Training-Free Personalization via Retrieval and Reasoning on Fingerprints](https://arxiv.org/abs/2503.18623) | arXiv | 2025 | image, text | text | |
