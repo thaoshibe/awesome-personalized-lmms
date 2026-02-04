@@ -19,7 +19,7 @@ Please feel free to create a pull request to add papers or edit any informations
 
 ### Table of Contents
 
-- [Blogs](#blogs)
+- [Blogs + Frameworks](#blogs--frameworks)
 - [Papers](#papers)
 	- [Personalized Large Multimodal Models](#Personalized-Large-Multimodal-Models)
 	- [Personalized Representation Learning](#Personalized-Representation-Learning)
@@ -36,10 +36,21 @@ Please feel free to create a pull request to add papers or edit any informations
 
 -----
 
-### Blogs
+### Blogs + Frameworks
 
+**Blogs:**
 - [Personal Intelligence: Connecting Gemini to Google apps](https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence/) | Google | 2026
 - [Memory and new controls for ChatGPT](https://openai.com/index/memory-and-new-controls-for-chatgpt/) | OpenAI | 2024
+
+**Frameworks:**
+- [mem0](https://github.com/mem0ai/mem0) | Universal memory layer for AI Agents | <a class="github-button" href="https://github.com/mem0ai/mem0" data-color-scheme="no-preference: light; light: light; dark: light;" data-icon="octicon-star" data-show-count="true" aria-label="Star mem0ai/mem0 on GitHub">Star</a>
+- [Graphiti](https://github.com/getzep/graphiti) | Build Real-Time Knowledge Graphs for AI Agents | <a class="github-button" href="https://github.com/getzep/graphiti" data-color-scheme="no-preference: light; light: light; dark: light;" data-icon="octicon-star" data-show-count="true" aria-label="Star getzep/graphiti on GitHub">Star</a>
+- [nanobot](https://github.com/HKUDS/nanobot) | Ultra-lightweight personal AI assistant | <a class="github-button" href="https://github.com/HKUDS/nanobot" data-color-scheme="no-preference: light; light: light; dark: light;" data-icon="octicon-star" data-show-count="true" aria-label="Star HKUDS/nanobot on GitHub">Star</a>
+- [crawlbot](https://github.com/phayes/crawlbot) | Simple and flexible web crawler/spider for Go | <a class="github-button" href="https://github.com/phayes/crawlbot" data-color-scheme="no-preference: light; light: light; dark: light;" data-icon="octicon-star" data-show-count="true" aria-label="Star phayes/crawlbot on GitHub">Star</a>
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 
 
 ### Papers
