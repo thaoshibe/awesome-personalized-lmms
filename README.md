@@ -19,11 +19,11 @@ Please feel free to create a pull request to add papers or edit any informations
 
 ### Table of Contents
 
+- [Blogs](#blogs)
 - [Papers](#papers)
 	- [Personalized Large Multimodal Models](#Personalized-Large-Multimodal-Models)
 	- [Personalized Representation Learning](#Personalized-Representation-Learning)
 - [Datasets](#datasets)
-- [Applications](#applications)
 
 ------
 
@@ -36,9 +36,15 @@ Please feel free to create a pull request to add papers or edit any informations
 
 -----
 
+### Blogs
+
+- [Personal Intelligence: Connecting Gemini to Google apps](https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence/) | Google | 2026
+- [Memory and new controls for ChatGPT](https://openai.com/index/memory-and-new-controls-for-chatgpt/) | OpenAI | 2024
+
+
 ### Papers
 
-> *⚠️ Minor Note: The listed works below are specified for settings where users provide 3-5 images, and the system needs to learn about those concepts. There is research on other subtopics (e.g., role-playing, persona, etc.). For these topics, [this repo](https://github.com/HqWu-HITCS/Awesome-Personalized-LLM) might provide better coverage.*
+<!-- > *⚠️ Minor Note: The listed works below are specified for settings where users provide 3-5 images, and the system needs to learn about those concepts. There is research on other subtopics (e.g., role-playing, persona, etc.). For these topics, [this repo](https://github.com/HqWu-HITCS/Awesome-Personalized-LLM) might provide better coverage.* -->
 
 ##### Personalized Large Multimodal Models
 
@@ -64,6 +70,9 @@ Please feel free to create a pull request to add papers or edit any informations
 | [MyVLM: Personalizing VLMs for user-specific queries](https://arxiv.org/abs/2403.14599) | ECCV | 2024 | image, text | text | [Page](https://snap-research.github.io/MyVLM/), [Code](https://github.com/snap-research/MyVLM)|
 | [Yo'LLaVA: Your Personalized Language and Vision Assistant](https://arxiv.org/abs/2406.09400) | NeurIPS | 2024 | image, text | text | [Page](https://thaoshibe.github.io/YoLLaVA), [Code](https://github.com/WisconsinAIVision/YoLLaVA)|
 |─── Large Language Models ───  |
+| [PersonaMem-v2: Towards Personalized Intelligence via Learning Implicit User Personas and Agentic Memory](https://arxiv.org/abs/2512.06688) | arXiv | 2025 | text | text | [Data](https://huggingface.co/datasets/bowen-upenn/PersonaMem-v2) |
+| [Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale](https://arxiv.org/abs/2504.14225) | COLM | 2025 | text | text | |
+| [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/abs/2406.20094) | arXiv | 2024 | text | text | |
 | [Personalized Large Language Models](https://arxiv.org/abs/2402.09269) | ICDMw | 2024 | text | text | |
 | [LaMP: When Large Language Models Meet Personalization](https://aclanthology.org/2024.acl-long.399/) | ACL | 2024 | text | text | [Page](https://lamp-benchmark.github.io/), [Code](https://github.com/LaMP-Benchmark/LaMP)|
 | [Learning to Predict Persona Information forDialogue Personalization without Explicit Persona Description](https://arxiv.org/abs/2111.15093) | ACL | 2023 | text | text | |
@@ -90,10 +99,6 @@ Please feel free to create a pull request to add papers or edit any informations
 | MC-LLaVA | 2024 | -- | [GitHub](https://github.com/arctanxarc/MC-LLaVA) | with [MC-LLaVA](https://arxiv.org/abs/2411.11706), multiple concepts |
 | Yo'LLaVA | 2024 | 40 | [GitHub](https://github.com/WisconsinAIVision/YoLLaVA?tab=readme-ov-file#yollava-dataset) | with [Yo'LLaVA](https://thaoshibe.github.io/YoLLaVA/), single concept |
 | MyVLM   | 2024 | 29 | [GitHub](https://github.com/snap-research/MyVLM?tab=readme-ov-file#dataset--pretrained-concept-heads) | with [MyVLM](https://snap-research.github.io/MyVLM/), single concept |
-
-### Applications
-
-- [Memory and new controls for ChatGPT](https://openai.com/index/memory-and-new-controls-for-chatgpt/)
 
 
 ---
