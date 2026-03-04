@@ -1,6 +1,6 @@
-# Awesome Personalized Large Multimodal Models [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Personalized Personal Assistant Models [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-📝 A curated list about Personalized Multimodal Models, Personalized Representation Learning~ 📚
+📝 A curated list about Personalized Personal Assistant Models~ 📚
 
 ---
 ## 🌱 Contributing
@@ -59,6 +59,11 @@ Please feel free to create a pull request to add papers or edit any informations
 
 | Title    | Venue    | Year | Input | Output | Link/ Code     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|:--------:|
+|─── Robotics ───  |
+| [See, Act, Adapt: Active Perception for Unsupervised Cross-Domain Visual Adaptation via Personalized VLM-Guided Agent](https://arxiv.org/abs/2602.23806) | arXiv | 2026 | image, text | text | |
+|─── Agentic ───  |
+| [According to Me: Long-Term Personalized Referential Memory QA](https://arxiv.org/abs/2603.01990) | arXiv | 2026 | image, text | text | [Code](https://github.com/google-research/according-to-me) |
+| [PersonaMem-v2: Towards Personalized Intelligence via Learning Implicit User Personas and Agentic Memory](https://arxiv.org/abs/2512.06688) | arXiv | 2025 | text | text | [Data](https://huggingface.co/datasets/bowen-upenn/PersonaMem-v2) |
 |─── Unified Models ───  |
 | [TAMEing Long Contexts in Personalization: Towards Training-Free and State-Aware MLLM Personalized Assistant](https://www.arxiv.org/abs/2512.21616) | KDD | 2025 | image, text | image, text | [Code](https://github.com/ronpay/TAME) |
 | [UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens](https://arxiv.org/abs/2505.14671) | NeurIPS | 2025 | image, text | image, text | [Page](https://chawuciren11.github.io/UniCTokens.github.io/) |
