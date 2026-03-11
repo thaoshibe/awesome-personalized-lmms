@@ -55,7 +55,7 @@ Please feel free to create a pull request to add papers or edit any informations
 
 <!-- > *⚠️ Minor Note: The listed works below are specified for settings where users provide 3-5 images, and the system needs to learn about those concepts. There is research on other subtopics (e.g., role-playing, persona, etc.). For these topics, [this repo](https://github.com/HqWu-HITCS/Awesome-Personalized-LLM) might provide better coverage.* -->
 
-##### Personalized Large Multimodal Models
+##### Personalized Asssistant
 
 | Title    | Venue    | Year | Input | Output | Link/ Code     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|:--------:|
@@ -69,6 +69,7 @@ Please feel free to create a pull request to add papers or edit any informations
 | [UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens](https://arxiv.org/abs/2505.14671) | NeurIPS | 2025 | image, text | image, text | [Page](https://chawuciren11.github.io/UniCTokens.github.io/) |
 | [YoChameleon: Personalized Vision and Language Generation](https://arxiv.org/abs/2504.20998) | CVPR | 2025 | image, text | image, text | [Page](https://thaoshibe.github.io/YoChameleon/)|
 |─── Vision Language Model ───  |
+| [Ego: Embedding-Guided Personalization of Vision-Language Models](https://arxiv.org/abs/2603.09771) | arXiv | 2026 | video, image, text | text | |
 | [Contextualized Visual Personalization in Vision-Language Models](https://arxiv.org/abs/2602.03454) | arXiv | 2026 | image, text | text | [Code](https://github.com/oyt9306/CoViP) |
 | [Online-PVLM: Advancing Personalized VLMs with Online Concept Learning](https://arxiv.org/abs/2511.20056) | arXiv | 2025 | image, text | text |  |
 | [MMPB: It's Time for Multi-Modal Personalization](https://aidaslab.github.io/MMPB/) | NeurIPS | 2025 | image, text | text | [Page](https://aidaslab.github.io/MMPB/) |
@@ -84,6 +85,7 @@ Please feel free to create a pull request to add papers or edit any informations
 | [MyVLM: Personalizing VLMs for user-specific queries](https://arxiv.org/abs/2403.14599) | ECCV | 2024 | image, text | text | [Page](https://snap-research.github.io/MyVLM/), [Code](https://github.com/snap-research/MyVLM)|
 | [Yo'LLaVA: Your Personalized Language and Vision Assistant](https://arxiv.org/abs/2406.09400) | NeurIPS | 2024 | image, text | text | [Page](https://thaoshibe.github.io/YoLLaVA), [Code](https://github.com/WisconsinAIVision/YoLLaVA)|
 |─── Large Language Models ───  |
+| [Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval](https://arxiv.org/abs/2603.09250) | ICLR | 2026 | text | text | |
 | [PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants](https://aclanthology.org/2025.findings-acl.927/) | ACL Findings | 2025 | text | text | [Paper](https://aclanthology.org/2025.findings-acl.927.pdf) |
 | [PersonaMem-v2: Towards Personalized Intelligence via Learning Implicit User Personas and Agentic Memory](https://arxiv.org/abs/2512.06688) | arXiv | 2025 | text | text | [Data](https://huggingface.co/datasets/bowen-upenn/PersonaMem-v2) |
 | [Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale](https://arxiv.org/abs/2504.14225) | COLM | 2025 | text | text | |
@@ -97,10 +99,11 @@ Please feel free to create a pull request to add papers or edit any informations
 
 <!-- | [paper title] | xx | 2024 | image, text | image, text |  | -->
 
-##### Personalized Representation Learning
+##### Personalized Representation Learning / Personalized Image Retrieval
 
 | Title    | Venue    | Year | Link/ Code     |
 |:-------- |:--------:|:----:|:-------------:|
+add https://arxiv.org/html/2603.01493v1 here? code is in https://github.com/LaVieEnRose365/PhotoBench
 | [Personalized Representation from Personalized Generation](https://personalized-rep.github.io/) | ICLR | 2025 | [Code](https://github.com/ssundaram21/personalized-rep) |
 | [“This is my unicorn, Fluffy”: Personalizing frozen vision-language representations](https://github.com/NVlabs/PALAVRA) | ECCV | 2024 | [Code](https://github.com/NVlabs/PALAVRA) |
 
