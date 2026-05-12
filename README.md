@@ -69,9 +69,10 @@ Please feel free to create a pull request to add papers or edit any informations
 | [UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens](https://arxiv.org/abs/2505.14671) | NeurIPS | 2025 | image, text | image, text | [Page](https://chawuciren11.github.io/UniCTokens.github.io/) |
 | [YoChameleon: Personalized Vision and Language Generation](https://arxiv.org/abs/2504.20998) | CVPR | 2025 | image, text | image, text | [Page](https://thaoshibe.github.io/YoChameleon/)|
 |─── Vision Language Model ───  |
+| [Personal Visual Context Learning in Large Multimodal Models](https://vision.cs.utexas.edu/projects/PersonalVCL/) | arXiv | 2026 | video, image, text | text | [Page](https://vision.cs.utexas.edu/projects/PersonalVCL/) |
 | [PEARL: Personalized Streaming Video Understanding Model](https://arxiv.org/abs/2603.20422) | arXiv | 2026 | video, text | text | [Code](https://github.com/Yuanhong-Zheng/PEARL) |
 | [Ego: Embedding-Guided Personalization of Vision-Language Models](https://arxiv.org/abs/2603.09771) | arXiv | 2026 | video, image, text | text | |
-| [Contextualized Visual Personalization in Vision-Language Models](https://arxiv.org/abs/2602.03454) | arXiv | 2026 | image, text | text | [Code](https://github.com/oyt9306/CoViP) |
+| [Contextualized Visual Personalization in Vision-Language Models](https://arxiv.org/abs/2602.03454) | ICML | 2026 | image, text | text | [Page](https://oyt9306.github.io/covip.github.io/), [Code](https://github.com/oyt9306/CoViP) |
 | [Online-PVLM: Advancing Personalized VLMs with Online Concept Learning](https://arxiv.org/abs/2511.20056) | arXiv | 2025 | image, text | text |  |
 | [MMPB: It's Time for Multi-Modal Personalization](https://aidaslab.github.io/MMPB/) | NeurIPS | 2025 | image, text | text | [Page](https://aidaslab.github.io/MMPB/) |
 | [RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models](https://arxiv.org/abs/2506.18369) | NeurIPS | 2025 | image, text | text | [Code](https://github.com/oyt9306/RePIC) |
